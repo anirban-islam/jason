@@ -1,0 +1,154 @@
+{
+  "team_members": [
+    {
+      "id": 1,
+      "name": "Virat Kohli",
+      "picture": "https://assets.telegraphindia.com/telegraph/2023/Mar/1678836965_57c7769197215ff88fbbb4b52c34856d.gif",
+      "avatar": "https://assets.telegraphindia.com/telegraph/2023/Mar/1678836965_57c7769197215ff88fbbb4b52c34856d.gif",
+      "country": "India",
+      "rating": 8.5,
+      "price": 900000,
+      "bat-hand": "Right-hand"
+    },
+    {
+      "id": 2,
+      "name": "Oliver Brown",
+      "picture": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcQSwXjtPOF9aY7F-Q4sE8zZt8i-Y_lWJEPs7yaAclIOIiDMJ5K_q9FyKYb0cTDxRbNXYxwV8QQBulZnvEg",
+      "avatar": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcQSwXjtPOF9aY7F-Q4sE8zZt8i-Y_lWJEPs7yaAclIOIiDMJ5K_q9FyKYb0cTDxRbNXYxwV8QQBulZnvEg",
+      "country": "Australia",
+      "rating": 7.9,
+      "price": 850000,
+      "bat-hand": "Left-hand"
+    },
+    {
+      "id": 3,
+      "name": "Ethan Miller",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ7stGLtmEKOsAyJ3v5j6e5VSaVGALuXO1PR7h0-b9lH5tcSOb4",
+      "avatar": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ7stGLtmEKOsAyJ3v5j6e5VSaVGALuXO1PR7h0-b9lH5tcSOb4",
+      "country": "South Africa",
+      "rating": 9.1,
+      "price": 1000000,
+      "bat-hand": "Right-hand"
+    },
+    {
+      "id": 4,
+      "name": "Lucas Zhang",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRsfAcLEOHo7ocGPApy8s8RWiu4oD6BdfRzR9RvpXkVoKm1GnS5",
+      "avatar": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRsfAcLEOHo7ocGPApy8s8RWiu4oD6BdfRzR9RvpXkVoKm1GnS5",
+      "country": "China",
+      "rating": 6.8,
+      "price": 600000,
+      "bat-hand": "Right-hand"
+    },
+    {
+      "id": 5,
+      "name": "Mohammed Khan",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iVSATbt9AJBD73kd3MaJzwnKCjwVZK3xqZM4Az7f1xA69x4M",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iVSATbt9AJBD73kd3MaJzwnKCjwVZK3xqZM4Az7f1xA69x4M",
+      "country": "Pakistan",
+      "rating": 8.3,
+      "price": 950000,
+      "bat-hand": "Left-hand"
+    },
+    {
+      "id": 6,
+      "name": "James Wilson",
+      "picture": "https://onecricketnews.akamaized.net/parth-editor/oc-dashboard/news-images-prod/1700052425929_vk.jpg?im=Resize=(650,450)",
+      "avatar": "https://onecricketnews.akamaized.net/parth-editor/oc-dashboard/news-images-prod/1700052425929_vk.jpg?im=Resize=(650,450)",
+      "country": "England",
+      "rating": 8.9,
+      "price": 980000,
+      "bat-hand": "Right-hand"
+    },
+    {
+      "id": 7,
+      "name": "Carlos Romero",
+      "picture": "https://img.olympics.com/images/image/private/t_16-9_640/f_auto/v1538355600/primary/v6bptpvlq2qvnr7k0gze",
+      "avatar": "https://img.olympics.com/images/image/private/t_16-9_640/f_auto/v1538355600/primary/v6bptpvlq2qvnr7k0gze",
+      "country": "West Indies",
+      "rating": 7.5,
+      "price": 820000,
+      "bat-hand": "Left-hand"
+    },
+    {
+      "id": 8,
+      "name": "Benito Gonzalez",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdZl346kE71Ij5uef4ss5c1UgRLdxuC6xBgQ&s",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdZl346kE71Ij5uef4ss5c1UgRLdxuC6xBgQ&s",
+      "country": "Spain",
+      "rating": 7.2,
+      "price": 700000,
+      "bat-hand": "Right-hand"
+    },
+    {
+      "id": 9,
+      "name": "Takashi Tanaka",
+      "picture": "https://img.mensxp.com/media/content/2022/Aug/Image-1-Credit-Twitter-ICC_62fcf932adf60.jpeg?w=900&h=600&cc=1",
+      "avatar": "https://img.mensxp.com/media/content/2022/Aug/Image-1-Credit-Twitter-ICC_62fcf932adf60.jpeg?w=900&h=600&cc=1",
+      "country": "Japan",
+      "rating": 6.9,
+      "price": 650000,
+      "bat-hand": "Left-hand"
+    },
+    {
+      "id": 10,
+      "name": "Daniel Lee",
+      "picture": "https://img.etimg.com/thumb/msid-104304636,width-640,height-480,imgsize-72006,resizemode-4/keshav-maharaj-south-africa.jpg",
+      "avatar": "https://img.etimg.com/thumb/msid-104304636,width-640,height-480,imgsize-72006,resizemode-4/keshav-maharaj-south-africa.jpg",
+      "country": "New Zealand",
+      "rating": 8.4,
+      "price": 870000,
+      "bat-hand": "Right-hand"
+    },
+    {
+      "id": 11,
+      "name": "Alex Silva",
+      "picture": "https://cricfit.com/wp-content/uploads/2023/09/IMG_7861.jpeg",
+      "avatar": "https://cricfit.com/wp-content/uploads/2023/09/IMG_7861.jpeg",
+      "country": "Brazil",
+      "rating": 7.7,
+      "price": 750000,
+      "bat-hand": "Left-hand"
+    },
+    {
+      "id": 12,
+      "name": "Miguel Torres",
+      "picture": "https://images.mid-day.com/images/images/2023/jun/sachi.jpg",
+      "avatar": "https://images.mid-day.com/images/images/2023/jun/sachi.jpg",
+      "country": "Argentina",
+      "rating": 7.3,
+      "price": 720000,
+      "bat-hand": "Right-hand"
+    },
+    {
+      "id": 13,
+      "name": "Sanjay Patel",
+      "picture": "https://www.shutterstock.com/editorial/image-editorial/M7T4AfzaO1TbI95dOTYxOTc=/rohit-sharma-india-runs-single-440nw-10311593cc.jpg",
+      "avatar": "https://www.shutterstock.com/editorial/image-editorial/M7T4AfzaO1TbI95dOTYxOTc=/rohit-sharma-india-runs-single-440nw-10311593cc.jpg",
+      "country": "India",
+      "rating": 8.1,
+      "price": 930000,
+      "bat-hand": "Right-hand"
+    },
+    {
+      "id": 14,
+      "name": "Jorge Martinez",
+      "picture": "https://onecricketnews.akamaized.net/parth-editor/oc-dashboard/news-images-prod/1718542314975_VK.jpg?im=Resize=(650,450)",
+      "avatar": "https://onecricketnews.akamaized.net/parth-editor/oc-dashboard/news-images-prod/1718542314975_VK.jpg?im=Resize=(650,450)",
+      "country": "Mexico",
+      "rating": 7.0,
+      "price": 680000,
+      "bat-hand": "Left-hand"
+    },
+    {
+      "id": 15,
+      "name": "Kevin O'Connor",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCaGLIogYJgEHXwBuwd1V8gqMkQgFxgy5WoA&s",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCaGLIogYJgEHXwBuwd1V8gqMkQgFxgy5WoA&s",
+      "country": "Ireland",
+      "rating": 7.8,
+      "price": 760000,
+      "bat-hand": "Right-hand"
+    }
+  ]
+}
